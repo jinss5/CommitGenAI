@@ -1,0 +1,1 @@
+# git_commit_msg_autogen
