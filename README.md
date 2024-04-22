@@ -4,7 +4,7 @@ generates git commits using llm
 ## Command to Run
 To activate the virtual environment and run the script on staged Git diffs, use the following command: <br/>
 ```bash
-source /path/to/venv/bin/activate && git diff --staged | python /path/to//main.py && deactivate 
+source /path/to/venv/bin/activate && git diff --staged | python /path/to/main.py && deactivate 
 ```
 
 
